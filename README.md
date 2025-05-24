@@ -13,4 +13,6 @@
   📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development and eye-candy visuals.
 </p>
 
+<p align="center">
 ![Banner](https://github.com/sparshabhusal/Hyprland-Dotfiles/blob/main/images/HyprDots.png)
+</p>
