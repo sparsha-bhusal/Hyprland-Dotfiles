@@ -1,6 +1,6 @@
 <div align="center">
 
-#  ** Sparsha's Hyprland Dots ** 
+#   Sparsha's Hyprland Dots 
 
   <p align="center">
   <!-- VSCode -->
