@@ -15,8 +15,3 @@
   <br><br>
   📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development
 </p>
-
-<div align=center>
-  <img alt="Arch" src="https://img.shields.io/badge/Arch-89b4fa?logo=arch-linux&logoColor=white&style=for-the-badge"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-74c7ec?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
