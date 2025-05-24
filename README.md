@@ -15,6 +15,6 @@
 
 <p align="center">
 
-![Banner](https://github.com/sparshabhusal/Hyprland-Dotfiles/blob/main/images/HyprDots.png)
+ ![Banner](https://github.com/sparshabhusal/Hyprland-Dotfiles/blob/main/images/HyprDots.png)
 
 </p>
