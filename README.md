@@ -16,7 +16,8 @@
 </p>
 
 
-<h1>Installing Dependencies</h1>
+<h1> **Installing Dependencies** </h1>
 
 ```bash
 yay -S hyprland kitty nautilus vscode librewolf-bin wlogout rofi hyprpaper ttf-nerd-fonts-symbols ttf-meslo-nerd ttf-fantasque-nerd
+
