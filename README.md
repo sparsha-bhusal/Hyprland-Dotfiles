@@ -25,6 +25,9 @@ yay -S hyprland kitty nautilus vscode librewolf-bin wlogout rofi hyprpaper ttf-n
 <h1> Links </h1>
 
 [Rofi](./config/rofi)
+
 [Waybar](./config/waybar)
+
 [Hypr](./config/hypr)
+
 [Kitty](./config/kitty)
