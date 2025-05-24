@@ -22,9 +22,3 @@
 yay -S hyprland kitty nautilus vscode librewolf-bin wlogout rofi hyprpaper ttf-nerd-fonts-symbols ttf-meslo-nerd ttf-fantasque-nerd
 
 ```
-<h1> Links </h1>
-
-[Rofi](./config/rofi)    |
-[Waybar](./config/waybar)   |
-[Hypr](./config/hypr)   |
-[Kitty](./config/kitty)   |
