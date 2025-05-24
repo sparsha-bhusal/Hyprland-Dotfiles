@@ -10,6 +10,6 @@
 <p align="center">
   🛠️ A minimal yet powerful Linux rice based on <strong>Arch Linux</strong> and <strong>Hyprland</strong> with full customization, aesthetic looks, and productivity tools.
   <br><br>
-  📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development and eye-candy visuals.
+  📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development
 </p>
 
