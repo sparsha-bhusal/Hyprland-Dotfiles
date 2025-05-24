@@ -19,6 +19,7 @@
 <h1> Installing Dependencies </h1>
 
 ```bash
-yay -S hyprland kitty rofi wofi nautilus vscode librewolf-bin wlogout waybar hyprpaper ttf-nerd-fonts-symbols ttf-meslo-nerd ttf-fantasque-nerd
-
+yay -S hyprland kitty  rofi wofi nautilus vscode librewolf-bin wlogout waybar hyprpaper 
+yay -S catppuccin-gtk-theme-mocha
+yay -S ttf-nerd-fonts-symbols ttf-meslo-nerd ttf-fantasque-nerd
 ```
