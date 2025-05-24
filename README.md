@@ -13,4 +13,15 @@
   📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development and eye-candy visuals.
 </p>
 
+<h1 align="center"> My Projects </h1>
+
+🔗 Startpage — A clean, minimal, and keyboard-driven custom startpage for your browser.
+
+🔐 Password Manager (WIP) — Built using Tailwind CSS, React, and Next.js with a focus on simplicity and security.
+
+🎛️ Hyprland Config — A personalized and aesthetic Hyprland dotfiles setup for a full rice experience on Arch Linux.
+
+🐍 Snake Game (Pygame) — A simple snake game built with Pygame, featuring custom graphics support.
+
+🎮 Roblox Systems — Multiple systems for Roblox Studio, including Arsenal-style UIs, WW2 health bars, team/class selection menus, and full Viewmodel support.
 
