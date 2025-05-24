@@ -14,3 +14,9 @@
   <br><br>
   📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development
 </p>
+
+
+<h1>Installing Dependencies</h1>
+
+```bash
+yay -S hyprland kitty nautilus vscode librewolf-bin wlogout rofi hyprpaper ttf-nerd-fonts-symbols ttf-meslo-nerd ttf-fantasque-nerd
