@@ -17,7 +17,7 @@
 
 <h1> Before Continuing </h1>
 
-Before continuing If you havent customized gnome or havent installed necessary packages like yay before then, check this repo .  [ Arch-Gnome-Customization ](https://github.com/sparshabhusal/Arch-Gnome-Customization) 
+ Before continuing If you havent customized gnome or havent installed necessary packages like yay before then, check this repo .  [ Arch-Gnome-Customization ](https://github.com/sparshabhusal/Arch-Gnome-Customization) 
 
 <h1> Installing Dependencies </h1>
 
