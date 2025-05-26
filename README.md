@@ -16,7 +16,9 @@
 </p>
 
 <h1> Before Continuing </h1>
-If you havent customized gnome or havent installed necessary packages like yay then, check this repo [ Arch-Gnome-Customization ](https://github.com/sparshabhusal/Arch-Gnome-Customization) 
+
+If you havent customized gnome or havent installed necessary packages like yay then, check this repo [Arch-Gnome-Customization](https://www.github.com/sparshabhusal/Arch-Gnome-Customization)
+
 <h1> Installing Dependencies </h1>
 
 ```bash
