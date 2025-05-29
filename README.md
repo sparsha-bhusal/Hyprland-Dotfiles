@@ -14,7 +14,7 @@
   <br><br>
   📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development
   <br></br>
-  ⚒️ This repo is in beta and has some bugs and Its not complete and once it is , it will not be updated or will it ...
+  ⚒️ This repo is in beta and has some bugs and Its not complete and once it is , it will not be updated or will it be ...
 </p>
 
 <h1> Installing Dependencies </h1>
