@@ -13,11 +13,9 @@
   🛠️ A minimal yet powerful Linux rice based on <strong>Arch Linux</strong> and <strong>Hyprland</strong> with full customization, aesthetic looks, and productivity tools.
   <br><br>
   📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development
+  <br></br>
+  ⚒️ This repo is in beta and has some bugs and Its not complete and once it is , it will not be updated (It might be ! , IDK)
 </p>
-
-<h1> Before Continuing </h1>
-
-If you havent customized gnome or havent installed necessary packages like yay then, check this repo [Arch-Gnome-Customization](https://www.github.com/sparshabhusal/Arch-Gnome-Customization)
 
 <h1> Installing Dependencies </h1>
 
