@@ -17,14 +17,22 @@
 <h1> Dependencies </h1>
 
 • kitty
+
 • rofi 
+
 • nautilus 
+
 • librewolf 
+
 • waybar 
+
 • hyprpaper  
+
 • vim 
+
 • nvim 
-• neofetch    etc.
+
+• neofetch    
 
 
 ```bash
