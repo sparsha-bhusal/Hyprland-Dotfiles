@@ -14,7 +14,18 @@
   🛠️ It is being worked on !
 </p>
 
-<h1> Installing Dependencies </h1>
+<h1> Dependencies </h1>
+
+• kitty
+• rofi 
+• nautilus 
+• librewolf 
+• waybar 
+• hyprpaper  
+• vim 
+• nvim 
+• neofetch    etc.
+
 
 ```bash
 yay -S hyprland kitty  rofi wofi nautilus vscode vim nvim librewolf-bin wlogout waybar hyprpaper 
