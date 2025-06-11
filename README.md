@@ -14,7 +14,7 @@
   🛠️ It is being worked on !
 </p>
 
-<h1> Dependencies </h1>
+<h1> 📦 Dependencies </h1>
 
 
 ```bash
