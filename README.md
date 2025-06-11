@@ -16,24 +16,6 @@
 
 <h1> Dependencies </h1>
 
-• kitty
-
-• rofi 
-
-• nautilus 
-
-• librewolf 
-
-• waybar 
-
-• hyprpaper  
-
-• vim 
-
-• nvim 
-
-• neofetch    
-
 
 ```bash
 yay -S hyprland kitty  rofi wofi nautilus vscode vim nvim librewolf-bin wlogout waybar hyprpaper 
