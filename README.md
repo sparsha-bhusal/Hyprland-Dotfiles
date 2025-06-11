@@ -10,11 +10,8 @@
  
 
 <p align="center">
-  🛠️ A minimal yet powerful Linux rice based on <strong>Arch Linux</strong> and <strong>Hyprland</strong> with full customization, aesthetic looks, and productivity tools.
-  <br><br>
-  📁 This repo contains my dotfiles, window manager configs, terminal theme, keybindings, and more — all optimized for daily development
-  <br></br>
-  ⚒️ This repo is in beta and has some bugs and Its not complete and once it is , it will not be updated or it might be ...
+  ⚠️This is in Beta and under construction !
+  🛠️ It is being worked on !
 </p>
 
 <h1> Installing Dependencies </h1>
